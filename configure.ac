@@ -1770,7 +1770,7 @@ AC_CONFIG_FILES([Makefile lib/Makefile zebra/Makefile ripd/Makefile
 	  tests/bgpd.tests/Makefile
 	  tests/libzebra.tests/Makefile
 	  redhat/Makefile
-	  ldap/Makefile
+	  ldpd/Makefile
 	  pkgsrc/Makefile
 	  redhat/quagga.spec 
 	  lib/version.h
